@@ -1,0 +1,117 @@
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\obj\Debug\net9.0-windows\Forms\CreateUser.g.cs
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\obj\Debug\net9.0-windows\Forms\Menu.g.cs
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables_MarkupCompile.cache
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables_MarkupCompile.lref
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\bin\Debug\net9.0-windows\AdminTables.exe
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\bin\Debug\net9.0-windows\AdminTables.deps.json
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\bin\Debug\net9.0-windows\AdminTables.runtimeconfig.json
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\bin\Debug\net9.0-windows\AdminTables.dll
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\bin\Debug\net9.0-windows\AdminTables.pdb
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\bin\Debug\net9.0-windows\Npgsql.dll
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\obj\Debug\net9.0-windows\Forms\CreateUser.baml
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\obj\Debug\net9.0-windows\Forms\Menu.baml
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.g.resources
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.AssemblyInfoInputs.cache
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.AssemblyInfo.cs
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTab.16D491A0.Up2Date
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.dll
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\obj\Debug\net9.0-windows\refint\AdminTables.dll
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.pdb
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.genruntimeconfig.cache
+C:\Users\Администратор\source\repos\AdminTables\AdminTables\obj\Debug\net9.0-windows\ref\AdminTables.dll
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\bin\Debug\net9.0-windows\AdminTables.exe
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\bin\Debug\net9.0-windows\AdminTables.deps.json
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\bin\Debug\net9.0-windows\AdminTables.runtimeconfig.json
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\bin\Debug\net9.0-windows\AdminTables.dll
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\bin\Debug\net9.0-windows\AdminTables.pdb
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\bin\Debug\net9.0-windows\Npgsql.dll
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\Forms\CreateUser.g.cs
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\Forms\Menu.g.cs
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables_MarkupCompile.cache
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables_MarkupCompile.lref
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\Forms\CreateUser.baml
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\Forms\Menu.baml
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.g.resources
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTab.16D491A0.Up2Date
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.dll
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\refint\AdminTables.dll
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.pdb
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\ref\AdminTables.dll
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\bin\Debug\net9.0-windows\AdminTables.exe
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\bin\Debug\net9.0-windows\AdminTables.deps.json
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\bin\Debug\net9.0-windows\AdminTables.runtimeconfig.json
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\bin\Debug\net9.0-windows\AdminTables.dll
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\bin\Debug\net9.0-windows\AdminTables.pdb
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\bin\Debug\net9.0-windows\Npgsql.dll
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\Forms\CreateUser.g.cs
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\Forms\Menu.g.cs
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables_MarkupCompile.cache
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables_MarkupCompile.lref
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\Forms\CreateUser.baml
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\Forms\Menu.baml
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.g.resources
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.sourcelink.json
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTab.16D491A0.Up2Date
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.dll
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\refint\AdminTables.dll
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.pdb
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Diplom\AdminTables\AdminTables\obj\Debug\net9.0-windows\ref\AdminTables.dll
+E:\Никита Диплом\AdminTables\AdminTables\bin\Debug\net9.0-windows\AdminTables.exe
+E:\Никита Диплом\AdminTables\AdminTables\bin\Debug\net9.0-windows\AdminTables.deps.json
+E:\Никита Диплом\AdminTables\AdminTables\bin\Debug\net9.0-windows\AdminTables.runtimeconfig.json
+E:\Никита Диплом\AdminTables\AdminTables\bin\Debug\net9.0-windows\AdminTables.dll
+E:\Никита Диплом\AdminTables\AdminTables\bin\Debug\net9.0-windows\AdminTables.pdb
+E:\Никита Диплом\AdminTables\AdminTables\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Никита Диплом\AdminTables\AdminTables\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Никита Диплом\AdminTables\AdminTables\bin\Debug\net9.0-windows\Npgsql.dll
+E:\Никита Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.csproj.AssemblyReference.cache
+E:\Никита Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\Forms\CreateUser.g.cs
+E:\Никита Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\Forms\Menu.g.cs
+E:\Никита Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\MainWindow.g.cs
+E:\Никита Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\App.g.cs
+E:\Никита Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables_MarkupCompile.cache
+E:\Никита Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables_MarkupCompile.lref
+E:\Никита Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\Forms\CreateUser.baml
+E:\Никита Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\Forms\Menu.baml
+E:\Никита Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\MainWindow.baml
+E:\Никита Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.g.resources
+E:\Никита Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.GeneratedMSBuildEditorConfig.editorconfig
+E:\Никита Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.AssemblyInfoInputs.cache
+E:\Никита Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.AssemblyInfo.cs
+E:\Никита Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.csproj.CoreCompileInputs.cache
+E:\Никита Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTab.16D491A0.Up2Date
+E:\Никита Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.dll
+E:\Никита Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\refint\AdminTables.dll
+E:\Никита Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.pdb
+E:\Никита Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\AdminTables.genruntimeconfig.cache
+E:\Никита Диплом\AdminTables\AdminTables\obj\Debug\net9.0-windows\ref\AdminTables.dll

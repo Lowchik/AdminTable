@@ -1,0 +1,15 @@
+{
+  "runtimeOptions": {
+    "tfm": "net9.0",
+    "additionalProbingPaths": [
+      "C:\\Users\\NikitinNM\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\NikitinNM\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+    ],
+    "configProperties": {
+      "System.Reflection.Metadata.MetadataUpdater.IsSupported": false,
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false,
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
