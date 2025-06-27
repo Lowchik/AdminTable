@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Администратор\Desktop\AdminTable\AdminTables\AdminTables\obj\Release\net7.0-windows7.0\
+C:\Users\Администратор\Desktop\AdminTable\AdminTables\AdminTables\obj\Release\net9.0-windows7.0\
 AdminTables
 none
 false
-TRACE;RELEASE;NET;NET7_0;NETCOREAPP
+TRACE;RELEASE;NET;NET9_0;NETCOREAPP
 C:\Users\Администратор\Desktop\AdminTable\AdminTables\AdminTables\App.xaml
 31003401510
 
-91131796207
-2011509804916
+9146260268
+204-239720139
 Forms\CreateUser.xaml;Forms\Menu.xaml;MainWindow.xaml;
 
 True

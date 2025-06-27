@@ -69,17 +69,17 @@
         </Grid>
         <Grid x:Name="CheckStol" Margin="309,10,0,0" d:IsHidden="True">
             <UniformGrid Columns="3" Rows="2" HorizontalAlignment="Center" VerticalAlignment="Center" Height="339" Width="350">
-                <!-- Стол 1 -->
+             
                 <Button Content="Стол 1" Background="#3A3A3A" Foreground="White" Height="100" Margin="10" Click="TableOneButton_Click"/>
-                <!-- Стол 2 -->
+               
                 <Button Content="Стол 2" Background="#3A3A3A" Foreground="White" Height="100" Margin="10" Click="TableTwoButton_Click"/>
-                <!-- Стол 3 -->
+               
                 <Button Content="Стол 3" Background="#3A3A3A" Foreground="White" Height="100" Margin="10" Click="TableThreeButton_Click"/>
-                <!-- Стол 4 -->
+           
                 <Button Content="Стол 4" Background="#3A3A3A" Foreground="White" Height="100" Margin="10" Click="TableFourButton_Click"/>
-                <!-- Стол 5 -->
+         
                 <Button Content="Стол 5" Background="#3A3A3A" Foreground="White" Height="100" Margin="10" Click="TableFiveButton_Click"/>
-                <!-- Стол 6 -->
+            
                 <Button Content="Стол 6" Background="#3A3A3A" Foreground="White" Height="100" Margin="10" Click="TableSixButton_Click"/>
             </UniformGrid>
             <Grid x:Name="CheckInfoStol" Margin="350,249,460,306" d:IsHidden="True">
@@ -124,7 +124,7 @@
 
                 <DataGrid.Resources>
 
-                    <!-- Стиль заголовков колонок -->
+                  
                     <Style TargetType="DataGridColumnHeader">
                         <Setter Property="Background" Value="#2196f3"/>
                         <Setter Property="Foreground" Value="White"/>
@@ -135,7 +135,7 @@
                         <Setter Property="Padding" Value="20,0,20,0"/>
                     </Style>
 
-                    <!-- Стиль ячеек -->
+               
                     <Style TargetType="DataGridCell">
                         <Setter Property="Padding" Value="12,4,12,4"/>
                         <Setter Property="BorderBrush" Value="#DDDDDD"/>
